@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/sort_test.dir/src/main.cpp.o  -o sort_test  -lpthread 

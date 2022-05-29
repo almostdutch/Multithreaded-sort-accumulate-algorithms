@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/accumulate_test.dir/src/main.cpp.o  -o accumulate_test  -lpthread 
