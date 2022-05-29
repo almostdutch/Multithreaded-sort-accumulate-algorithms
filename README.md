@@ -1,2 +1,2 @@
 # Multithreaded-sort-accumulate-algorithms
-Multithreaded "sort" and "accumulate" algorithms implemented using a thread pool
+Both algorithms are implemented using an interruptible thread pool (workers can steal tasks from the main thread and from each other)
